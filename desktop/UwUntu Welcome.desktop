@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=UwUntu Welcome
+GenericName=budgie-welcome
+Comment=UwUntu welcome app.
+Categories=Utility;
+Type=Application
+Exec=python3 /usr/bin/uwuntu-welcome/budgie-welcome
+Icon=uwuntu-welcome
+Terminal=false
+NoDisplay=false
+Name[en_US]=welcome
